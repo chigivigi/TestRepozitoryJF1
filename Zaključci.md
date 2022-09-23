@@ -1,0 +1,1 @@
+Ovo je test repozitorij u kojem radim proof of concept.
